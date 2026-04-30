@@ -9,9 +9,9 @@ I am currently a first year Master's student persuing a Master's degree in Marin
 
 https://github.com/benberman1/
 
-### Contact me
+### Contact
 
-[bdberman08@gmail.com]
+bdberman08@gmail.com
 
 
 ## <center>Ben D. Berman</center><center>Department of Marine Biology</center><center>University of Haifa</center><center>199 Aba Khoushy Ave., Mount Carmel, Haifa, 3498838</center>
