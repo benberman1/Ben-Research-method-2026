@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I am currently a first year Master's student persuing a Master's degree in Marine Biology at The University of Haifa in the lab of Dr. Tali Mass. My project surrounds bioremediating coral reefs experience and suffering from coral bleaching; a phenomenon caused by high temperature stress from climate change.
+I am a first-year Master’s student in Marine Biology at The University of Haifa, conducting my Master's thesis project in the laboratory of Dr. Tali Mass. My research focuses on coral reefs, their endosymbiotic relationships, and remediating coral reefs affected by coral bleaching, a stress-inducing phenomenon associated with elevated ocean temperatures.
+
 ### More Information
 
 https://github.com/benberman1/
