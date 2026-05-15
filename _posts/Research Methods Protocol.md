@@ -4,7 +4,11 @@
 
 
 ### _*Sampling*_
-attempt
+- Four coral species were selected from laboratory colonies. 
+- Coral species were *Leptoseris sp.*, *Porites solida*, *Stylocoeniella sp*.(encrusting) and *Stylophora pistilata *(branching).
+- Selection based on previous knowledge that they had rapid lateral growth.
+
+ using manual breaking and plated on to 10 glass slides and 10 glass bottom plates each (20 samples per species)
 
 ###_*Preperations*_
 attempt
@@ -12,6 +16,14 @@ attempt
 ### _*Acclimation*_
 attempt
 
+Coral experimental prep 
+
+- Glass was washed with water and dried before gluing lab corals manually broken onto the glass surfaces. Size was aimed to be max 1 cm. Coral were broken in the water to obtain desired piece size then dried at the surface of contact (bottom for encrusting, side for branching) for the glue to stick, was pressed onto glass area and submerged under water 
+- Aimed to glue on side of glass so corals would grow laterally onto glass area to best examine and image using microscopy
+- 
+- Will wait for lateral growth to examine, place in water at 25C to acclimate
+- Brought on Monday, will have to change daily
+Coral for zoox iso to be dept with in the future, no nubs cut as 
 
 
 
