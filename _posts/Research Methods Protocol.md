@@ -5,38 +5,29 @@
 
 ### _*Sampling*_
 - Four coral species were selected from laboratory colonies. 
-- Coral species were *Leptoseris sp.*, *Porites solida*, *Stylocoeniella sp*.(encrusting) and *Stylophora pistilata *(branching).
+- Coral species were *Leptoseris spp.*, *Porites solida*, *Stylocoeniella spp.*.(encrusting) and *Stylophora pistilata *(branching).
 - Selection based on previous knowledge that they had rapid lateral growth.
+- Once a disired colony was identified, a section of the coral was fragmented for further fragmentation into individual samples.*
 
- using manual breaking and plated on to 10 glass slides and 10 glass bottom plates each (20 samples per species)
-
-###_*Preperations*_
-attempt
-
-### _*Acclimation*_
-attempt
-
-Coral experimental prep 
-
-- Glass was washed with water and dried before gluing lab corals manually broken onto the glass surfaces. Size was aimed to be max 1 cm. Coral were broken in the water to obtain desired piece size then dried at the surface of contact (bottom for encrusting, side for branching) for the glue to stick, was pressed onto glass area and submerged under water 
-- Aimed to glue on side of glass so corals would grow laterally onto glass area to best examine and image using microscopy
-- 
-- Will wait for lateral growth to examine, place in water at 25C to acclimate
-- Brought on Monday, will have to change daily
-Coral for zoox iso to be dept with in the future, no nubs cut as 
+*Not to worry, coral are able to regrow and grow from fragmentation in the ideal environmental cobititions. It is actually a method of natural asexual reproduction. See [here](https://doi.org/10.1098/rsos.251209)!
 
 
+###_*Assembling*_
 
+- Glass was cleaned by washing with tap or sea water and dried by paper towel and air 
+- Coral aquarium samples were furher fragmented to be used as sample replicates.
+- Coral were broken in the water to obtain a desired piece size of around maximum 1 cm.
+- The fragmented coral pieces were temporarily removed from the water for glass surface adhesion. Following water removed, the underside of the coral fragment was dried on using paper towel.
+- Adhesive glue was applied to glass surface, and coral fragments were pressed onto the spot of glue with the underside of the coral being the surface of contact (bottom for encrusting, side for branching) allowing samples to stick on the glass surface for later lateral growth imaging.
+- Aimed to glue coral fragments on side of clear glass so corals would grow laterally onto glass area for best microscopy examination and imaging.
+- GLass surfaces with glued coral were returned and submerged under sea water at 25°C to acclimate.
+- Coral samples plated on to 10 glass slides and 10 glass bottom plates each (20 samples per species).
+- Wait for coral fragments to acclimate and lateral growth to occur.
 
-
-
- 
-**(c)** Insert photos with captions  
-For example:   
    
 ![colonie_figure_sesesame.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/colonie_figure_sesesame.png) 
 
-Figure 1: Colonie of *Pocillopora spp.* in the lagoon of Mo'orea at different flow regime.  
+Figure 1: Sampled coral fragments submurged on glass surfaces for lateral growth analysis. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass slides. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass bottom plates.
 
 **(d)** Insert tables (screenshots not allowed) that include 6 columns, 6 raws and a title to each columnn     
 For example:   
@@ -49,9 +40,7 @@ For example:
 |      |      |             |             |           |     |
 |      |      |             |             |           |     |
 
-
-**(e)** insert links to scientific references   
-For example: [Coral bleaching: the role of the host](https://www.sciencedirect.com/science/article/pii/S0169534708003236)  
+  
 
 **(f)** insert a link for an online protocol of a chemical or instrument.
  For example: [Tryzol reagent](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://assets.thermofisher.com/TFS-Assets/LSG/manuals/trizol_reagent.pdf)
