@@ -21,32 +21,24 @@
 - Adhesive glue was applied to glass surface, and coral fragments were pressed onto the spot of glue with the underside of the coral being the surface of contact (bottom for encrusting, side for branching) allowing samples to stick on the glass surface for later lateral growth imaging.
 - Aimed to glue coral fragments on side of clear glass so corals would grow laterally onto glass area for best microscopy examination and imaging.
 - Glass surfaces with glued coral were returned and submerged under sea water at 25°C to acclimate.
-- Coral samples plated on to 10 glass slides and 10 glass bottom plates each (20 samples per species).
+- Coral samples plated on to 10 glass slides and 10 glass bottom plates each (20 samples per species). See Figure 1 for visual.
 - Wait for coral fragments to acclimate and lateral growth to occur.*
 
 *Corals were placed in a maintained salt-water aquarium, following a similar set-up used by [Craggs et al., 2017](https://doi.org/10.1002/ece3.3538)
 
    
-![colonie_figure_sesesame.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/colonie_figure_sesesame.png) 
+![coralfragments.png](https://benberman1.github.io/Ben-Research-method-2026/images/coralfragments.png) 
 
-Figure 1: Sampled coral fragments submurged on glass surfaces for lateral growth analysis. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass slides. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass bottom plates. i)*Leptoseris spp.* ; ii) *Porites solida* ; iii) *Stylocoeniella spp.* ; iv) *Stylophora pistilata *(branching)
+Figure 1: Sampled coral fragments submurged on glass surfaces for lateral growth analysis. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass slides. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass bottom plates. i)*Leptoseris spp.* ; ii) *Porites solida* ; iii) *Stylocoeniella spp.* ; iv) *Stylophora pistilata*(branching)
 
-**(d)** Insert tables (screenshots not allowed) that include 6 columns, 6 raws and a title to each columnn     
-For example:   
 
-| Date | Site | Coral cover | Algae cover | CCA cover | ... |
-|------|------|-------------|-------------|-----------|-----|
-|      |      |             |             |           |     |
-|      |      |             |             |           |     |
-|      |      |             |             |           |     |
-|      |      |             |             |           |     |
-|      |      |             |             |           |     |
+Table 1: Experimental layout and checklist for gluing sampled coral fragments onto glass surfaces for lateral growth and later imaging. 
+
+|Coral Species| Number of Replicates | Average Fragment Size | Glass Surface Used| Glass Adhesion | Aquarium Submersion |
+|------|------|------|----------------|-----------|-----|
+|*Leptoseris spp.*|20|1 cm|glass slide (10) + glass bottom plate (10)|Yes|Yes|
+|*Porites solida*|20|1 cm|glass slide (10) + glass bottom plate (10)|Yes|Yes|
+|*Stylocoeniella spp.*|20|1 cm|glass slide (10) + glass bottom plate (10)|Yes|Yes|
+|*Stylophora pistilata*|20|1 cm|glass slide (10) + glass bottom plate (10)|Yes|Yes|
 
   
-
-**(f)** insert a link for an online protocol of a chemical or instrument.
- For example: 
-
-##### You are free to choose the length of the protocol, but all the points requested must be present. 
-
-#### When the protocol is finished, please add it to your research method repository and send us the link via moodle. 
