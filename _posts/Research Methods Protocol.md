@@ -9,7 +9,7 @@
 - Selection based on previous knowledge that they had rapid lateral growth.
 - Once a disired colony was identified, a section of the coral was fragmented for further fragmentation into individual samples.*
 
-*Not to worry, coral are able to regrow and grow from fragmentation in the ideal environmental cobititions. It is actually a method of natural asexual reproduction. See [here](https://doi.org/10.1098/rsos.251209)!
+*Not to worry, coral are able to regrow and grow from fragmentation in the ideal environmental cobititions. It is actually a method of natural asexual reproduction. See here by [Lewis et al., 2025](https://doi.org/10.1098/rsos.251209).
 
 
 ###_*Assembling*_
@@ -20,14 +20,16 @@
 - The fragmented coral pieces were temporarily removed from the water for glass surface adhesion. Following water removed, the underside of the coral fragment was dried on using paper towel.
 - Adhesive glue was applied to glass surface, and coral fragments were pressed onto the spot of glue with the underside of the coral being the surface of contact (bottom for encrusting, side for branching) allowing samples to stick on the glass surface for later lateral growth imaging.
 - Aimed to glue coral fragments on side of clear glass so corals would grow laterally onto glass area for best microscopy examination and imaging.
-- GLass surfaces with glued coral were returned and submerged under sea water at 25°C to acclimate.
+- Glass surfaces with glued coral were returned and submerged under sea water at 25°C to acclimate.
 - Coral samples plated on to 10 glass slides and 10 glass bottom plates each (20 samples per species).
-- Wait for coral fragments to acclimate and lateral growth to occur.
+- Wait for coral fragments to acclimate and lateral growth to occur.*
+
+*Corals were placed in a maintained salt-water aquarium, following a similar set-up used by [Craggs et al., 2017](https://doi.org/10.1002/ece3.3538)
 
    
 ![colonie_figure_sesesame.png](https://pierrickharnay.github.io/PierrickHarnay_Notebook/images/colonie_figure_sesesame.png) 
 
-Figure 1: Sampled coral fragments submurged on glass surfaces for lateral growth analysis. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass slides. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass bottom plates.
+Figure 1: Sampled coral fragments submurged on glass surfaces for lateral growth analysis. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass slides. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass bottom plates. i)*Leptoseris spp.* ; ii) *Porites solida* ; iii) *Stylocoeniella spp.* ; iv) *Stylophora pistilata *(branching)
 
 **(d)** Insert tables (screenshots not allowed) that include 6 columns, 6 raws and a title to each columnn     
 For example:   
@@ -43,7 +45,7 @@ For example:
   
 
 **(f)** insert a link for an online protocol of a chemical or instrument.
- For example: [Tryzol reagent](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://assets.thermofisher.com/TFS-Assets/LSG/manuals/trizol_reagent.pdf)
+ For example: 
 
 ##### You are free to choose the length of the protocol, but all the points requested must be present. 
 
