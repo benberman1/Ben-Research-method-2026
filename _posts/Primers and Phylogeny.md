@@ -46,7 +46,7 @@ Compared it to the FASTA sequences of the chloroplast rbcL gene for [*Padina tet
 
 ![Padina_rbcL](https://benberman1.github.io/Ben-Research-method-2026/images/Padina_rbcL.png)
 Figure 1: Allignment of the rbcL gene sequence between *Padina thivyi* (AB358933.1), *Padina tetrastromatica* (AB512554.1), *Padina okinawaensis* (AB490398.1), *Padina undulata* (AB489952.1), and *Padina terricolor* (AB489948.1). Sequences were retrieve as FASTA outputs from NCBI. Far left collumn lists the sequences of 5 algae species in NCBI acession format (as listed in brackets next to the species). Nucleotide region displayed in each row is 1-109, 110-218, 219-327, 328-436, 437-545, 546-654, 655-763, 764-872, 873-981, 982-1090, 1091-1199, 1200-1308, 1309-1319
-Unhighlighted nucleotides are conserved regions, highlighted nucleotides identific variable regions. A total of 100 ​single nucleotide polymorphisms (SNPs) were present, specifically at nucelotide posiitions 119, 137, 146, 149, 167, 200, 209, 218, 233, 251, 267, 311, 329, 330, 335, 345, 395, 419, 422, 431, 444, 455, 476, 518, 545, 548, 550, 560, 575, 582, 593, 594, 605, 617, 626, 629, 632, 635, 639, 647, 674, 680, 683, 686, 707, 731, 749, 758, 767, 791, 800, 809, 830, 833, 836, 845, 857, 864, 879, 889, 899, 905, 912, 920, 938, 944, 945, 947, 953, 956, 962, 992, 1010, 1037, 1040, 1049, 1052, 1059, 1106, 1121, 1127, 1130, 1142, 1194, 1196, 1201, 1208, 1209, 1219, 1220, 1223, 1253, 1265, 1268, 1271, 1284, 1286. One indel (insertion-deltion) is present at the end of the gene sequence, either an insertion or deletion of nucleotides 1297-1319.
+Unhighlighted nucleotides are conserved regions, highlighted nucleotides identific variable regions. A total of 100 ​single nucleotide polymorphisms (SNPs) were present, specifically at nucelotide posiitions 119, 137, 146, 149, 167, 200, 209, 218, 233, 251, 267, 311, 329, 330, 335, 345, 395, 419, 422, 431, 444, 455, 476, 518, 545, 548, 550, 560, 575, 582, 593, 594, 605, 617, 626, 629, 632, 635, 639, 647, 674, 680, 683, 686, 707, 731, 749, 758, 767, 791, 800, 809, 830, 833, 836, 845, 857, 864, 879, 889, 899, 905, 912, 920, 938, 944, 945, 947, 953, 956, 962, 992, 1010, 1037, 1040, 1049, 1052, 1059, 1106, 1121, 1127, 1130, 1142, 1194, 1196, 1201, 1208, 1209, 1219, 1220, 1223, 1253, 1265, 1268, 1271, 1284, 1286. One indel (insertion-deltion) is present at the end of the gene sequence, either an insertion or deletion of nucleotides 1297-1319. Produced using the MEGA (Molecular Evolutionairy Genetics Analysis) software [version 12.1](https://www.megasoftware.net/).
 
 #####Sequence Alignment
 - Impletemented the primer designing software Primer3.
@@ -72,9 +72,10 @@ Verify your primer pair using NCBI Primer-BLAST.
 •	Number of bootstrap replicates
 
 ![Padina_tree](https://benberman1.github.io/Ben-Research-method-2026/images/Padina_tree.png)
-Figure 2:
+Figure 2: Phylogentic tree of 5 algae species from the genus Padina: *Padina thivyi* (AB358933.1), *Padina tetrastromatica* (AB512554.1), *Padina okinawaensis* (AB490398.1), *Padina undulata* (AB489952.1), and *Padina terricolor* (AB489948.1). NCBI acession name indicates species phylogenic tree position and history. Made using MEGA (Molecular Evolutionairy Genetics Analysis) software [version 12.1](https://www.megasoftware.net/).
 
-Briefly explain what your phylogenetic tree shows. 
-•	Which species cluster together
-•	Whether your organism groups with the expected related species
+**Phylogenetic Results**
+- *Padina okinawaensis* and *Padina terricolor* cluster closest to gether on the phylogeneic tree, meaning they are most strongly related from these 5 algae species and decended from a more recent common ancestor.
+- *Padina thivyi* is not the most distantly related species, and thus being phylogenetically situated in between other Padina algae makes sense and meets expected position for this species.
+
 •	Bootstrap values supporting the main branches
