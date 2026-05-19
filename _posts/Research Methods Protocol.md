@@ -1,8 +1,19 @@
 ####Research Methods Homework: Notebook Post 
-## Protocol for Obtaining and Organizing Coral Fragments for Lateral Growth Samples
+# Protocol for Obtaining and Organizing Coral Fragments for Lateral Growth Samples
 ### By Ben Berman
 
+## Purpose
+Obtaining individual coral fragments and positioning on a clear glass surface would enable polyp growth in the lateral direction. These freshly developed coral polyps are able to be imaged and analyzed by microscopy, being at an equal height for optimal resolution, allowing proper visualization of new individual coral polyp cohorts grown from pre-established experimental colonies.
 
+## Equipment
+
+- 4 sample coral colonies of different species to fragment and regrow as individuals. 
+- 40 glass microscope slides (75 mm × 25 mm x 1 mm).
+- 40 glass bottom plates (diameter of 35 mm).
+- Ista Instant Glue (4g) for underwater adhesion.
+- Paper towel for glass surface and coral drying.
+
+## Procedure
 ### _*Sampling*_
 - Four coral species were selected from laboratory colonies. 
 - Coral species were *Leptoseris spp.*, *Porites solida*, *Stylocoeniella spp.*.(encrusting) and *Stylophora pistilata *(branching).
