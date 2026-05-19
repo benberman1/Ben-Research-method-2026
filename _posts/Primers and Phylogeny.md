@@ -1,52 +1,55 @@
-## Using the *rbcL* Gene for Primer Design and Phylogenetic Analysis of *Symbiodinium spp.*.  
+## Using the ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene *rbcL* for Primer Design and Phylogenetic Analysis of *Padina thivyi*.  
 
 ### Objective
-The goal of this protocol is to design specific primers targeting the rbc1 gene for identification of *Symbiodinium spp.* and constructing an acompaning phylogenetic tree.
+The goal of this protocol is to design specific primers targeting the rbc1 gene for identification of *Padina thivyi* and constructing an acompaning phylogenetic tree.
 
 ### Materials and Reasoning
 
-- The target algal species to be examined is *Symbiodinium spp.*; a group of photosynthetic marine dinoflagellates often existing as symbionts in multicellular ocean organisms.
-- The target gene inestigated is rbcL; a gene that encodes for the catalytic subunits of the carbon-fixating enzyme RuBisCo (Ribulose1,5-bisphosphate carboxylase/oxygenase). 
+- The target algal species to be examined is *Padina thivyi*; a group of photosynthetic marine dinoflagellates often existing as symbionts in multicellular ocean organisms.
+- The target gene inestigated is rbcL; a gene that encodes for the catalytic subunits of the carbon-fixating chloroplast enzyme RuBisCo (Ribulose1,5-bisphosphate carboxylase/oxygenase). 
 - The rbcL gene is structurally conserved among photosynthetic organisms, however possesses small variable species-specific evolutionairy-induced sequence differences. Given this, and its strong representation in GenBank data, rbcL is a suitable marker for species identification and taxanomic classification.
-- Producing primers for *Symbiodinium spp.* will allow specific amplification of the rbcL gene for species identification and further investigation, while phylogenetic analysis of *Symbiodinium spp.* will demonstrate the evolutionairy history and common ancestry of this species.
+- Producing primers for *Padina thivyi* will allow specific amplification of the rbcL gene for species identification and further investigation, while phylogenetic analysis of *Padina thivyi* will demonstrate the evolutionairy history and common ancestry of this species.
 
 ### Methods 
 ####Primers
 #####Sequence Collection
 - Navigated to [NCBI](https://www.ncbi.nlm.nih.gov/).
-- Flitered databases to "Nucleotide" and searched for "*Symbiodinium spp.*".
-- Obtained the FASTA sequence for [Symbiodinium spp. ribulose 1,5-bisphosphate carboxylase oxygenase large subunit precursor (rbcL) mRNA, complete cds; nuclear gene for chloroplast product](https://www.ncbi.nlm.nih.gov/nuccore/AF298221.1/):
-AGGGTGCCTTGTTTTCCTGATCATGTCGCAGCGCACGTCCGCAGCGATGGCCCTGGGCGGCTTGGCTGGG
-TTGGCGTACCTGAGCTCGGGCAGCCAGACTTTCGCGGCCGCACCGGCGACCGCGAACCTTCGCCATCAGC
-ACACCGCCCAGACCGCGCAGACGCCTTCTTCCTCGGCTTCGACATCTCTGCCAGCAATGATGGCTGGCGG
-TGCAGTTCTCGCCGCTGCGGCTGCCTCTGGACGTGCTACCCGCTCGCATGGCAGCGCGCCCCTCCCCACC
-AGCGTGATGCCAGTGAGGAAGTCGGTCACAGCTCGCAAGGCCCTGGACCAGTCCAGCCGCTATGCGGACC
-TCTCCCTGGATGAGGCGACGCTCGTCAAGAACGGCAAGCACGTGCTGGTGGCCTACATCATGAAGCCGAA
-GGCAGGCTACGACTACCTTGCCACCGCTGCGCACTTTGCTGCCGAATCCTCCACCGGAACGAACGTGAAC
-GTGTGCACCACGGATGACTTCACCAAGTCTGTGGATGCCTTGGTCTACTACATCGACCCGGATAGCGAAG
-AGATGAAGATCGCATATCCTACCCTGCTATTCGACCGCAACATCATTGATGGTCGTGGAATGATGTGCTC
-GTTCCTGACCTTGGCCATTGGAAACAACCAGGGCATGGGCGATGTCGAGTACGGCAAGATCTACGACTTC
-TACCTGCCCCCATCCTTCCTGCGCCTGTATGATGGGCCCGCCGTGAACGTGGAGGACATGTGGCGCATCC
-TGGGCAAGGGCACCAGCAACGGTGGTCTCGTGGATGGAACCATCATCAAGCCCAAGCTCGGCCTGCAGCC
-CAACCCTTTCGGTGAGGCGTGCTACTCCTTCTGGCAGGGAGGTGACTTCATCAAGAACGATGAGCCCCAG
-GGCAACCAGGTGTTCTGCCAGATGAACGAGTGCATTCCTGAGGTGGTGAAGGCCATGAGGGCTTGCGTCA
-AGGAGACTGGCAGCTCCAAGCTCTTCTCCGCCAACATCACTGCAGATGATCCTGAGGAGATGATTGCCCG
-CGGCAAGTACATCATGTCTCAGTTCGGTCCTTTGTCCGAGAACTGCGCATTCTTGGTGGATGGCTATGTT
-GCAGGTGGAACTGCGGTGACCTGCTGCAGGCGCAACTTCCCCAAGCAGTTCTTGCACTACCACCGAGCCG
-GCCACGGTTCAGTGACCAGCCCCCAGACCCAGCGTGGTTACACTGCCTTTGTGCACACCAAGATCTCCCG
-AGTCATCGGTGCATCTGGCATCCACGTGGGCACCATGAGCTTCGGCAAGATGGAGGGTGATGCCTCCGAC
-AAGAACATTGCCTACATGCTGCAGGATGATGAGGCCGATGGTCCTTACTACCGACAGGAGTGGCAGGGCA
-TGAAGGAGACCACCCCCATCATCTCTGGTGGCATGAACGCCCTGCGCCTGCCAGCCTTCTTCGAGAATCT
-GGGACACTCCAACGTGATCCTGACTGCCGGCGGTGGCTCTTTCGGTCACAAGGACGGCCCCAAGATTGGT
-GCCATCTCTTGTCGTCAGGGTGAGGAGGCCTGGAAGCAGTGGAAGGCCGGCCAGTTCGGCAACATTAGCT
-TGAGCGATGGCGTGATTGAGTATGCCAAGACCCACGAGGAGATCAAGGGTGCTTTCTTGACCTTCCAGAA
-GGATGCTGACCAGATCTACCCTGGATGGAAGGAGAAGCTCGGCTACACTGGCGAGTCCTCCGTGCAGGCT
-GCATCCTTCGACTGGGCCAAGCGTGCTTAAGCTGCTGAGCTCTC
+- Flitered databases to "Nucleotide" and searched for "Padina".
+- Located the sequence for the [Padina thivyi chloroplast rbcL gene for ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit, partial cds, country: Japan: Kagoshima, Tanegashima](https://www.ncbi.nlm.nih.gov/nuccore/AB358933.1)
+- Obtained the FASTA sequence of the rbcL gene for [*Padina thivyi.*](https://www.ncbi.nlm.nih.gov/nuccore/AB358933.1?report=fasta) 
+
+CCGGCGTGGATCCTGTAGAGGCTGCTGCCGCAGTAGCTGGAGAATCTTCAACTGCTACGTGGACTGTTGT
+TTGGACTGATTTATTAACAGCCTGTGACATTTATCGAGCAAAAGCCTATCGAGTAGATCCAGTACCTGGT
+ACAAATGATCAATTCTTTGCTTATATAGCATACGAATGTGATTTATTTGAAGAAGGTTCATTAGCTAATT
+TAACAGCATCTATTATTGGTAATGTTTTTGGATTTAAAGCTGTTAAAGCTTTACGTCTAGAAGATATGCG
+AATTCCTTTTGCTTATTTAAAAACATTCCAAGGTCCTGCTACTGGTGTAATTGTTGAACGAGAAAGATTA
+GATAAATTTGGTCGTCCTTTATTAGGAGCAACAGTAAAACCTAAGTTAGGTCTTTCTGGAAAAAACTATG
+GTCGTGTTGTTTATGAAGGTTTACGAGGTGGACTTGACTTCTTAAAAGATGATGAGAATATTAACTCACA
+ACCTTTTATGCGTTGGAAAGAACGTTTTCTTTACTGTATGGAAGGTGTAAACCGCTCTGTAGCAGCAACA
+GGTGAAGTTAAAGGGTCATACTTAAATGTAACGGCATCAACAATCGAACAAATGTATGAACGTGCTGAGT
+ATGCAGATTCTTTAGGGAGTGTAATTGTTATGATTGACTTAGTAATTGGGTATACAGCAATCCAAACTAT
+GGCAATCTGGGCACGTAAAGCTCAAATGATCTTACATTTACACCGTGCAGGAAACTCAACTTATGCCCGT
+CAAAAAAACCATGGTATAAACTTCCGTGTTATTTGTAAGTGGATGCGTATGTCAGGTGTGGATCATATTC
+ATGCAGGAACTGTTGTTGGTAAATTAGAAGGTGACCCTCTAATGGTAAGAGGTTTTTATAACACATTACT
+ACTAACTGAGTTAAAAGTTAATTTAGCTGAAGGTCTATTCTTCGATATGAGCTGGGCTTCTCTTCGTAAA
+TGTGTTCCAGTAGCTTCTGGTGGAATCCATTGTGGACAAATGCATCAACTTTTATACTACTTAGGAGACG
+ACGTAGTATTACAATTTGGAGGTGGTACAATTGGTCATCCAGATGGTATTCAATCTGGTGCTACTGCTAA
+TCGTGTAGCTTTAGAAGCTATTGTTTTAGCTCGAAATGAAGGTCGTGATTATGTAGCTGAAGGACCAGAA
+ATTCTACGTACTGCTGCAGCTACATGTGGTCCATTAAAAACAGCTTTAGATTTATGGAAAGATATTACTT
+TTGAATACACATCAACAGATACTACAGACTTCGTAG
+
+Compared it to the FASTA sequences of the chloroplast rbcL gene for [*Padina tetrastromatica*](https://www.ncbi.nlm.nih.gov/nuccore/AB512554.1?report=fasta), [*Padina okinawaensis*](https://www.ncbi.nlm.nih.gov/nuccore/AB490398.1?report=fasta), [*Padina undulata*](https://www.ncbi.nlm.nih.gov/nuccore/AB489952.1?report=fasta), and [*Padina terricolor*](https://www.ncbi.nlm.nih.gov/nuccore/AB489948.1?report=fasta) obtained using the same method.
+
+#####Sequence Alignment
+- To allign Padina speices rbcL gene equences, the MEGA (Molecular Evolutionairy Genetics Analysis) software [version 12.1](https://www.megasoftware.net/) was implemented.
+- The sequences that were compared were DNA.
 
 
 
 
-Describe how you collected your sequences from NCBI.
+1-109, 110-218, 219-327, 328-436, 437-545, 546-654, 655-763, 764-872, 873-981, 982-1090, 1091-1199, 1200-1308, 1309-1319
+
+
 Explain how you aligned your sequences. 
 •	Software or website used, such as ClustalW or MEGA
 •	Sequence type: DNA
