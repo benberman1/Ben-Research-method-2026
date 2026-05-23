@@ -1,5 +1,5 @@
-####*Research Methods Homework: Notebook Post* 
-#Obtaining and Organizing Coral Fragment Samples for Lateral Growth Analysis
+#### *Research Methods Homework: Notebook Post* 
+# Obtaining and Organizing Coral Fragment Samples for Lateral Growth Analysis
 ### A Laboratory Protocol by Ben Berman
 
 ## Purpose
