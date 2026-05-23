@@ -123,7 +123,7 @@ July 2021 – Aug 2021
 
 ## VOLUNTEER EXPERIENCE
 
-**Promotional Marketer (Volunteer Role)**  
+**Promotional Marketer**  
 *The CHEO Foundation*  
 Summer 2025  
 - Informed and engaged public by promoting healthcare initiatives.
