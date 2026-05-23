@@ -40,7 +40,7 @@ Isolating individual coral fragments and positioning onto transparent glass surf
    
 ![coralfragments.png](https://benberman1.github.io/Ben-Research-method-2026/images/coralfragments.png) 
 
-**Figure 1:** Sampled coral fragments submerged on glass surfaces for lateral growth analysis. A. 10 replicates of each coral species glued onto glass slides. A. 10 replicates of each coral species glued onto glass bottom plates. Species anotated as: i)*Leptoseris spp.* ; ii) *Porites solida* ; iii) *Stylocoeniella spp.* ; iv) *Stylophora pistilata*.
+**Figure 1:** Sampled coral fragments submerged on glass surfaces for lateral growth analysis. A. 10 replicates of each coral species glued onto glass slides. B. 10 replicates of each coral species glued onto glass bottom plates. Species anotated as: i)*Leptoseris spp.* ; ii) *Porites solida* ; iii) *Stylocoeniella spp.* ; iv) *Stylophora pistilata*.
 
 
 
