@@ -14,16 +14,16 @@ Obtaining individual coral fragments and positioning on a clear glass surface wo
 - Paper towel for glass surface and coral drying.
 
 ## Procedure
-### _*Sampling*_
+###<u>_*Sampling*_</u>
 - Four coral species were selected from laboratory colonies. 
-- Coral species were *Leptoseris spp.*, *Porites solida*, *Stylocoeniella spp.*.(encrusting) and *Stylophora pistilata *(branching).
+- Coral species were *Leptoseris spp.*, *Porites solida*, *Stylocoeniella spp.*(encrusting) and *Stylophora pistilata* (branching).
 - Selection based on previous knowledge that they had rapid lateral growth.
 - Once a disired colony was identified, a section of the coral was fragmented for further fragmentation into individual samples.*
 
 *Not to worry, coral are able to regrow and grow from fragmentation in the ideal environmental cobititions. It is actually a method of natural asexual reproduction. See here by [Lewis et al., 2025](https://doi.org/10.1098/rsos.251209).
 
 
-###_*Assembling*_
+###<u>_*Assembling*_</u>
 
 - Glass was cleaned by washing with tap or sea water and dried by paper towel and air 
 - Coral aquarium samples were furher fragmented to be used as sample replicates.
@@ -35,21 +35,21 @@ Obtaining individual coral fragments and positioning on a clear glass surface wo
 - Coral samples plated on to 10 glass slides and 10 glass bottom plates each (20 samples per species). See Figure 1 for visual.
 - Wait for coral fragments to acclimate and lateral growth to occur.*
 
-*Corals were placed in a maintained salt-water aquarium, following a similar set-up used by [Craggs et al., 2017](https://doi.org/10.1002/ece3.3538)
+*Corals were placed in a maintained salt-water aquarium, following a similar set-up used by [Craggs et al., 2017](https://doi.org/10.1002/ece3.3538).
 
    
 ![coralfragments.png](https://benberman1.github.io/Ben-Research-method-2026/images/coralfragments.png) 
 
-Figure 1: Sampled coral fragments submurged on glass surfaces for lateral growth analysis. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass slides. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass bottom plates. i)*Leptoseris spp.* ; ii) *Porites solida* ; iii) *Stylocoeniella spp.* ; iv) *Stylophora pistilata*(branching)
+**Figure 1:** Sampled coral fragments submurged on glass surfaces for lateral growth analysis. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass slides. A. 10 replicates of the 4 coral species used (see anotated on the image) on glass bottom plates. i)*Leptoseris spp.* ; ii) *Porites solida* ; iii) *Stylocoeniella spp.* ; iv) *Stylophora pistilata*(branching)
 
 
-Table 1: Experimental layout and checklist for gluing sampled coral fragments onto glass surfaces for lateral growth and later imaging. 
+**Table 1:** Experimental layout and checklist for gluing sampled coral fragments onto glass surfaces for lateral growth and later imaging. 
 
 |Coral Species| Number of Replicates | Average Fragment Size | Glass Surface Used| Glass Adhesion | Aquarium Submersion |
 |------|------|------|----------------|-----------|-----|
-|*Leptoseris spp.*|20|1 cm|glass slide (10) + glass bottom plate (10)|Yes|Yes|
-|*Porites solida*|20|1 cm|glass slide (10) + glass bottom plate (10)|Yes|Yes|
-|*Stylocoeniella spp.*|20|1 cm|glass slide (10) + glass bottom plate (10)|Yes|Yes|
-|*Stylophora pistilata*|20|1 cm|glass slide (10) + glass bottom plate (10)|Yes|Yes|
+|*Leptoseris spp.*|20|1 cm|Glass slide (n=10) + Glass bottom plate (n=10)|Yes|Yes|
+|*Porites solida*|20|1 cm|Glass slide (n=10) + Glass bottom plate (n=10)|Yes|Yes|
+|*Stylocoeniella spp.*|20|1 cm|Glass slide (n=10) + Glass bottom plate (n=10)|Yes|Yes|
+|*Stylophora pistilata*|20|1 cm|Glass slide (n=10) + Glass bottom plate (n=10)|Yes|Yes|
 
   
