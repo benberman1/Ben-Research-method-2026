@@ -20,7 +20,7 @@ Isolating individual coral fragments and positioning onto transparent glass surf
 - Selection of species was based on previous knowledge of known rapid lateral growth.
 - Once a disired experimental colony was identified, a section of the coral was fragmented for further fragmentation into individual samples.*
 
-*Not to worry, coral are able to regrow and grow from fragmentation in the ideal environmental cobititions. It is actually a method of natural asexual reproduction! See here by [Lewis et al., 2025](https://doi.org/10.1098/rsos.251209).
+*Not to worry, coral are able to regrow and grow from fragmentation in the ideal environmental conditions. It is actually a method of natural asexual reproduction! See here by [Lewis et al., 2025](https://doi.org/10.1098/rsos.251209).
 
 
 ###<u>_*Assembling*_</u>
