@@ -14,7 +14,7 @@ Isolating individual coral fragments and positioning onto transparent glass surf
 - Paper towel for glass surface and coral adhesion surface drying.
 
 ## Procedure
-###<u>_*Sampling*_</u>
+### <u>_*Sampling*_</u>
 - Four coral species were selected from laboratory colonies (having either encrusting or branching growth structure). 
 - Coral species included *Leptoseris spp.*, *Porites solida*, *Stylocoeniella spp.*(encrusting) and *Stylophora pistilata* (branching).
 - Selection of species was based on previous knowledge of known rapid lateral growth.
@@ -23,7 +23,7 @@ Isolating individual coral fragments and positioning onto transparent glass surf
 *Not to worry, corals are able to regrow and grow from fragmentation in ideal environmental conditions. It is actually a method of natural asexual reproduction! See here by [Lewis et al., 2025](https://doi.org/10.1098/rsos.251209).
 
 
-###<u>_*Assembling*_</u>
+### <u>_*Assembling*_</u>
 
 - Glass was cleaned by washing with tap or sea water, dried by paper towel and further air dried.
 - Coral aquarium fragmented samples were further fragmented to be used as individual sample replicates.
