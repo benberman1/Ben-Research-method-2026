@@ -18,7 +18,7 @@ Isolating individual coral fragments and positioning onto transparent glass surf
 - Four coral species were selected from laboratory colonies (having either encrusting or branching growth structure). 
 - Coral species included *Leptoseris spp.*, *Porites solida*, *Stylocoeniella spp.*(encrusting) and *Stylophora pistilata* (branching).
 - Selection of species was based on previous knowledge of known rapid lateral growth.
-- Once a disired experimental colony was identified, a section of the coral was fragmented for further fragmentation into individual samples.*
+- Once a desired experimental colony was identified, a section of the coral was fragmented for further fragmentation into individual samples.*
 
 *Not to worry, corals are able to regrow and grow from fragmentation in ideal environmental conditions. It is actually a method of natural asexual reproduction! See here by [Lewis et al., 2025](https://doi.org/10.1098/rsos.251209).
 
