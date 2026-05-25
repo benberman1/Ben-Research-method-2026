@@ -12,7 +12,7 @@ https://github.com/benberman1/
 
 ### Contact
 
-bdberman08@gmail.com
+[bdberman08@gmail.com](bdberman08@gmail.com)
 
 
 ## <center>Ben D. Berman</center><center>Department of Marine Biology</center><center>University of Haifa</center><center>199 Aba Khoushy Ave., Mount Carmel, Haifa, 3498838</center>
