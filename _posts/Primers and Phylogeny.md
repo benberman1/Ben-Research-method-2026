@@ -71,7 +71,7 @@ Verify your primer pair using NCBI Primer-BLAST.
 
 •	Number of bootstrap replicates
 
-![Padina_tree](https://benberman1.github.io/Ben-Research-method-2026/images/Padina_tree.png)
+![Padina_Tree1](https://benberman1.github.io/Ben-Research-method-2026/images/Padina_Tree1.png)
 Figure 2: Phylogentic tree of 5 algae species from the genus Padina: *Padina thivyi* (AB358933.1), *Padina tetrastromatica* (AB512554.1), *Padina okinawaensis* (AB490398.1), *Padina undulata* (AB489952.1), and *Padina terricolor* (AB489948.1). NCBI acession name indicates species phylogenic tree position and history. Made using MEGA (Molecular Evolutionairy Genetics Analysis) software [version 12.1](https://www.megasoftware.net/).
 
 **Phylogenetic Results**
