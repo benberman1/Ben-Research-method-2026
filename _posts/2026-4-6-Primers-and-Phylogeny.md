@@ -60,6 +60,8 @@ Unhighlighted nucleotides represent conserved regions, highlighted nucleotides r
 
 *_Primer characteristics_*
 
+Table 1: Sequence and associated information of the forward and reverse primer for the *rbcL* gene of *Padina thivyi*.
+
 |Primer Type| Sequence | Length (base pairs) | Melting Temperature (Tm)| GC content | Expected Amplicon Size (base pairs)|Sequence Position (sequence nucleotide number)
 |------|------|------|----------------|-----------|-----|-------|
 | Forward |ACGGCATCAACAATCGAACA|20|58.48|45.00|239|591-611
