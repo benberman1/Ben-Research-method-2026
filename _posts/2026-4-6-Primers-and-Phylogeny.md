@@ -68,12 +68,13 @@ Table 1: Sequence and associated information of the forward and reverse primer f
 | Reverse |ACACCTGACATACGCATCCA|20|59.10|50.00|239|829-810
 
 
-#####Verified primer pair 
+**Verified primer pair **
 ![PadinaBlast](https://benberman1.github.io/Ben-Research-method-2026/images/PadinaBlast.png)
 Figure 2: Primer allignment to the FASTA sequence of *Padina thivyi rbcL* gene. Top: Graphical View of primer pais; Bottom: Detailed Primer Report. Allignment performed using [NCBI Primer-BLAST](https://www.ncbi.nlm.nih.gov/tools/primer-blast/index.cgi).
 
 
-#####Phylogenetic Analysis
+**Phylogenetic Analysis**
+
 - Impleted the MEGA (Molecular Evolutionairy Genetics Analysis) software [version 12.1](https://www.megasoftware.net/)
 - Sequences were alligned using the ClustalW method.
 - Tree-building statistical method was the Neighbor-Joining method.
