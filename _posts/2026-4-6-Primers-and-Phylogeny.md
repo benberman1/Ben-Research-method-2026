@@ -6,7 +6,7 @@ The goal of this protocol is to design specific primers targeting the *rbcL* gen
 ### Materials and Reasoning
 
 - The target algal species to be examined is *Padina thivyi*; a species of brown-coloured marine microalgae.
-- The other Padina species to be compared for the phylogenic tree are *Padina tetrastromatica* (AB512554.1), *Padina okinawaensis* (AB490398.1), *Padina undulata* (AB489952.1), and *Padina terricolor* (AB489948.1).
+- The other *Padina* species to be compared for the phylogenic tree are *Padina tetrastromatica* (AB512554.1), *Padina okinawaensis* (AB490398.1), *Padina undulata* (AB489952.1), and *Padina terricolor* (AB489948.1).
 - The target gene inestigated is *rbcL*; a gene that encodes for the catalytic subunits of the carbon-fixating chloroplast enzyme RuBisCo (Ribulose1,5-bisphosphate carboxylase/oxygenase). 
 - The *rbcL* gene is structurally conserved among photosynthetic organisms, however possesses small variable species-specific evolutionairy-induced sequence differences. Given this, and its strong representation in GenBank data, *rbcL* is a suitable marker and good housekeeping gene for species identification and taxanomic classification.
 - Producing primers for *Padina thivyi* will allow specific amplification of the *rbcL* gene for species identification and further investigation, while phylogenetic analysis of *Padina thivyi* will demonstrate the evolutionairy history and common ancestry of this species.
@@ -58,7 +58,7 @@ Unhighlighted nucleotides represent conserved regions, highlighted nucleotides r
 - Inserted the FASTA gene sequence of the chloroplast *rbcL* gene for *Padina thivyi*.
 - Prompted the software to generate ("pick") primers.
 
-*_Primer characteristics_*
+*Primer characteristics*
 
 Table 1: Sequence and associated information of the forward and reverse primer for the *rbcL* gene of *Padina thivyi*.
 
