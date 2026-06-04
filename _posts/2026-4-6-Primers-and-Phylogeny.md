@@ -54,13 +54,13 @@ Unhighlighted nucleotides represent conserved regions, highlighted nucleotides r
 
 **Primer Design**
 
-- Impletemented the primer designing software Primer3.
+- Impletemented the primer designing software [Primer3](https://primer3.ut.ee/).
 - Inserted the FASTA gene sequence of the chloroplast *rbcL* gene for *Padina thivyi*.
 - Prompted the software to generate ("pick") primers.
 
 *Primer characteristics*
 
-Table 1: Sequence and associated information of the forward and reverse primer for the *rbcL* gene of *Padina thivyi*.
+Table 1: Sequence and associated information of the forward and reverse primer for the *rbcL* gene of *Padina thivyi*. Retrieved using primer designing software [Primer3](https://primer3.ut.ee/).
 
 |Primer Type| Sequence | Length (base pairs) | Melting Temperature (Tm)| GC content | Expected Amplicon Size (base pairs)|Sequence Position (sequence nucleotide number)
 |------|------|------|----------------|-----------|-----|-------|
