@@ -39,7 +39,7 @@ TCGTGTAGCTTTAGAAGCTATTGTTTTAGCTCGAAATGAAGGTCGTGATTATGTAGCTGAAGGACCAGAA
 ATTCTACGTACTGCTGCAGCTACATGTGGTCCATTAAAAACAGCTTTAGATTTATGGAAAGATATTACTT
 TTGAATACACATCAACAGATACTACAGACTTCGTAG
 
-Compared it to the FASTA sequences of the chloroplast rbcL gene for [*Padina tetrastromatica*](https://www.ncbi.nlm.nih.gov/nuccore/AB512554.1?report=fasta), [*Padina okinawaensis*](https://www.ncbi.nlm.nih.gov/nuccore/AB490398.1?report=fasta), [*Padina undulata*](https://www.ncbi.nlm.nih.gov/nuccore/AB489952.1?report=fasta), and [*Padina terricolor*](https://www.ncbi.nlm.nih.gov/nuccore/AB489948.1?report=fasta) obtained using the same method.
+Compared this sequence phylogenically to the FASTA sequences of the chloroplast *rbcL* gene for [*Padina tetrastromatica*](https://www.ncbi.nlm.nih.gov/nuccore/AB512554.1?report=fasta), [*Padina okinawaensis*](https://www.ncbi.nlm.nih.gov/nuccore/AB490398.1?report=fasta), [*Padina undulata*](https://www.ncbi.nlm.nih.gov/nuccore/AB489952.1?report=fasta), and [*Padina terricolor*](https://www.ncbi.nlm.nih.gov/nuccore/AB489948.1?report=fasta) obtained using the same method.
 
 #####Sequence Alignment
 - To allign Padina speices rbcL gene equences, the MEGA (Molecular Evolutionairy Genetics Analysis) software [version 12.1](https://www.megasoftware.net/) was implemented.
