@@ -1,7 +1,7 @@
 ## Using the ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit gene *rbcL* for Primer Design and Phylogenetic Analysis of *Padina thivyi*.  
 
 ### Objective
-The goal of this protocol is to design specific primers targeting the *rbcL* gene for identification of *Padina thivyi* (accession number AB358933.1) and constructing an acompaning phylogenetic tree for *Padina thivyi* and 4 additional *Padina* species.
+The goal of this protocol is to design specific primers targeting the *rbcL* gene for identification of *Padina thivyi* (accession number AB358933.1) and constructing an accompanying phylogenetic tree for *Padina thivyi* and 4 additional *Padina* species.
 
 ### Materials and Reasoning
 
