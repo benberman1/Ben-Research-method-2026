@@ -67,7 +67,7 @@ To perform a relative quantification analysis of qPCR data, the Delta-Delta Ct M
 **Methods**
 Calculations: 
 
-- Cycle Threshold (Ct) values, which represent when the fluorescent signal from copied DNA exceeds that of the background level threshold, was obtained from performing qPCR.
+- Cycle Threshold (Ct) values, which represent when the fluorescent signal from replicated DNA exceeds that of the background level threshold, was obtained from performing qPCR. Tubulin acts as a strong housekeeping gene given stable and consistent expression.
 - The Delta Ct parameter was calculated using the appropriate formuala (ΔCt = Ct target - Ct reference) to normalize the expression of the target gene to the reference gene to correct against potential sample variability. 
 - The Delta-Delta Ct parameter was calculated using the appropriate formula (ΔΔCt = ΔCt experimental - ΔCt control) to normalize target gene expression of the experimental treatment sample to the experimentally controlled sample.
 - The Relative Quantification or fold change was calculated using the appropriate formula (fold change = 2^−ΔΔCt) which indicates the difference in exprression of the target sample compared to the control sample.
@@ -75,7 +75,7 @@ Calculations:
 **Results**
 Final graph & tables
 
-**Table 1. qPCR Ct Values for Candidate Genes Under Control and Inhibitor Treatments** Quantitative PCR cycle threshold (Ct) values measured for target genes under DMSO control and inhibitor treatment conditions. *Tubulin* served as the reference housekeeping gene for normalization. Lower Ct values indicate higher transcript abundance.
+**Table 1:** Cycle Threshold (Ct) of qPCR for analyzed genes under control (DMSO) and treatment (inhibitor) experimental conditions. Target genes are indicated in ***bold and italicized text***, with the excepition of *Tubulin*, which acted as the reference gene (indicated by an asterix [x]), being evident from no change Ct between control and treatment conditions.
 
 | Condition | *Tubulin** | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 |------------|-----------|------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
@@ -84,14 +84,25 @@ Final graph & tables
 
 
 
-|Target Gene| ascs| Delta| ets| foxA| gcm| NGN| opt| pak3| pak4| pitx| SM30| sm50| soxC| synB| 
-|------|------|------|----------------|-----------|------|------|------|----------------|-----------|
-|*Leptoseris spp.*|20|1 cm|Glass slide (n=10) + Glass bottom plate (n=10)|Yes|Yes|
-|*Porites solida*|20|1 cm|Glass slide (n=10) + Glass bottom plate (n=10)|Yes|Yes|
-|*Stylocoeniella spp.*|20|1 cm|Glass slide (n=10) + Glass bottom plate (n=10)|Yes|Yes|
-|*Stylophora pistilata*|20|1 cm|Glass slide (n=10) + Glass bottom plate (n=10)|Yes|Yes|
+**Table 2:** Computation and analysis of relative quantification parameters of target genes. Relative quantification parameters were calculated as previously described in the Methods. Target genes are indicated in ***bold and italicized text***. 
+
+| Relative Quantification Parameter |  *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB*|
+|-------------|------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+| DMSO Control ΔCt | 5.798492039 | 2.668118854 | 1.421209753 | 1.070320705 | 5.058759526 | 5.055620436 | 7.724890764 | 2.110212597 | 2.275558495 | 6.382601514 | -2.326773173 | 0.404644329 | 1.776511123 | 0.830644553 |
+| Inhibitor Treatment ΔCt | 5.213096166 | 2.242432664 | 1.141776254 | 0.426898078 | 4.882689152 | 4.057358850 | 8.412595342 | 1.999217137 | 1.956972448 | 8.428596513 | -1.529216886 | 1.515168132 | 1.032331749 | 0.763907434 |
+| ΔΔCt | -0.585395873 | -0.425686191 | -0.279433499 | -0.643422627 | -0.176070374 | -0.998261586 | 0.687704578 | -0.110995460 | -0.318586047 | 2.045994999 | 0.797556287 | 1.110523803 | -0.744179374 | -0.066737119 |
+| Fold Change (2^-ΔΔCt) | 1.500450654 | 1.343211224 | 1.213718202 | 1.562030504 | 1.129802324 | 1.997591498 | 0.620840863 | 1.079973162 | 1.247107688 | 0.242155387 | 0.575322865 | 0.463125852 | 1.675021222 | 1.047345268 |
+
+
 
 ![qPCR_chart.png](https://benberman1.github.io/Ben-Research-method-2026/images/qPCR_chart.png)
+**Figure 1:** Quatified fold change for each target gene analyzed. Values greater than 1 indicate target gene upregulation and values less than 1 indicate target gene downregulation in treatment conditions compared to control conditions relative to the housekeeping gene treatment (*Tubulin*).
+
 
 **Discussion**
 interpretations:
+
+Given fold change parameter values greater than 1 indicate target gene upregulation and values less than 1 indicate target gene downregulation, 
+
+Genes with a fold change value greater than 1 are ascs, Delta, ets, foxA, gcm, NGN, pak3, pak4, soxC, synB. Contrarily, genes with fold change value less than 1 are opt, pitx, SM30, sm50.
+
