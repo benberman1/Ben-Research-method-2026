@@ -43,19 +43,18 @@ This gene is important to maintain zooxanthaale and coral homeostasis when therm
 Reference gene: Cox1 (Cytochrome c Oxidase Subunit I)
 
 why you expect its expression to remain stable under your experimental conditions.
-The expression of this gene will remain stable under artifical heat stress as it is consistently stabaly expressed in mitochondria of these phytoplankton.
+The expression of this gene will remai stable under artifical heat stress as it is consistently stabaly expressed in mitochondria of these phytoplankton.
 
 Well-supported explanation of hypotheses and expected outcomes demonstrating the scientific reasoning behind your choices. 
 
 1. **Hsp70 Hypothesis:**  
-   Thermal/light extremes will induce Hsp70 upregulation for the cellular heat shock response.
+   Light extremes will induce Hsp70 upregulation to initiate the heat stress response to best manage excess thermal energy. This will result in the *Symbiodinium microadriaticum* cell, proteins, membranes and other biological qualities to have better heat tolerance as a coping strategy. 
 
 2. **H+-ATPase Hypothesis:**  
-   Stress conditions will likely increase expression fron enhanced demand of proton regulation and intracellular pH homeostatic maintenance.
+   Stress conditions will likely increase expression fron enhanced demand of proton regulation and intracellular pH homeostatic maintenance. A stronger presence of this protein would allow cells to better sequester energy to symbiotic coral hosts to protect them against thermal stress.
 
 3. **cox1 Hypothesis (Control):**  
-   cox1 expression will remain stable across all treatments, validating its use as a reference gene.
-
+   cox1 expression will remain stable across all treatments, validating its use as a reference gene. No change at the genotypic and phenotypic leel would occur.
 
 
 ### Part 2: Relative Quantification Data Interpretation
@@ -96,13 +95,10 @@ Final graph & tables
 
 
 ![qPCR_chart.png](https://benberman1.github.io/Ben-Research-method-2026/images/qPCR_chart.png)
-**Figure 1:** Quatified fold change for each target gene analyzed. Values greater than 1 indicate target gene upregulation and values less than 1 indicate target gene downregulation in treatment conditions compared to control conditions relative to the housekeeping gene treatment (*Tubulin*).
+**Figure 1:** Quatified fold change for each target gene analyzed. Values greater than 1 indicate target gene upregulation, while values less than 1 indicate target gene downregulation, relative to the expression of the housekeeping gene *Tubulin* in treatment conditions compared to control conditions.
 
 
 **Discussion**
 interpretations:
 
-Given fold change parameter values greater than 1 indicate target gene upregulation and values less than 1 indicate target gene downregulation, 
-
-Genes with a fold change value greater than 1 are ascs, Delta, ets, foxA, gcm, NGN, pak3, pak4, soxC, synB. Contrarily, genes with fold change value less than 1 are opt, pitx, SM30, sm50.
-
+Genes that were upregulated in the treatment condition (fold change value greater than 1) are *ascs*, *Delta*, *ets*, *foxA*, *gcm*, *NGN*, *pak3*, *pak4*, *soxC*, and *synB*. Contrarily, were upregulated in the treatment condition (fold change value less than 1) are *opt*, *pitx*, *SM30*, and *sm50*. Therefore, we would expect greater genotype presence and phenotypic effects from the upregulated genes, and a decrease in genotype and associated phenotype in downregulated genes.
