@@ -3,7 +3,7 @@
 
 ### Part 1: Gene Invetsigation Using qPCR
 
-**Species: *Symbiodinium microadriaticum***
+**Species:** *Symbiodinium microadriaticum*
 
 <u>Target Gene 1: H<sup>+</sup>-ATPase </u>
 
@@ -64,7 +64,6 @@ Well-supported explanation of hypotheses and expected outcomes demonstrating the
 To perform a relative quantification analysis of qPCR data, the Delta-Delta Ct Method or Livak method is employed. This method is effective for determining the change in gene product of a target gene in comparison to a housekeeping gene when a stres factor is intriduced. The Lival/ΔΔCT method assumes that target and reference gene amplification efficiencies around 100%, with refrence/housekeeping gene expression stably consistant in every samle and in experiment conditons.
 
 **Methods**
-Calculations: 
 
 - Cycle Threshold (Ct) values, which represent when the fluorescent signal from replicated DNA exceeds that of the background level threshold, was obtained from performing qPCR. Tubulin acts as a strong housekeeping gene given stable and consistent expression.
 - The Delta Ct parameter was calculated using the appropriate formuala (ΔCt = Ct target - Ct reference) to normalize the expression of the target gene to the reference gene to correct against potential sample variability. 
