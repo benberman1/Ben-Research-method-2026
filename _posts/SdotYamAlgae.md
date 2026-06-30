@@ -10,21 +10,29 @@ Parameters analyzed include Y(II) (Effective Quantum Yield of PSII), NPQ (Non-Ph
 
 ![SdotYamAlgae1.png](https://benberman1.github.io/Ben-Research-method-2026/images/SdotYamAlgae1.png)
 ![SdotYamAlgae2.png](https://benberman1.github.io/Ben-Research-method-2026/images/SdotYamAlgae2.png)
-Figure 0: algae images/info
+Figure 1: Visual guide of algae taxa present from the coastal waters of Sdot Yam used to help identify algae species collected and analyzed in this study.
 
 
 ###Results
 Y(II), NPQ, Fv/Fm, and ETR were measured for each algad Taxon, with actual photsynthesis patameters Am (asymptotic maximum = Pmax= max photosynthesis), AQY (initial sloap = alpha = Fv/Fm), Rd (curve y intercept = dark respiration (normalized oxygen = positive values [usually negative]), and Ik (Am/AQY, light-limited to saturation-limited irradiance level) determined on average.
 
-Figure 1: Y(II)
+![YII.png](https://benberman1.github.io/Ben-Research-method-2026/images/YII.png)
+Figure 2: Y(II)
 
-Figure 2: NPQ
+![NPQ.png](https://benberman1.github.io/Ben-Research-method-2026/images/NPQ.png)
+Figure 3: NPQ
 
-Figure 3: Fv/Fm
+![FvFm.png](https://benberman1.github.io/Ben-Research-method-2026/images/FvFm.png)
+Figure 4: Fv/Fm
 
-Figure 4: ETR
+![ETR.png](https://benberman1.github.io/Ben-Research-method-2026/images/ETR.png)
+Figure 5: ETR
 
-Figure 5: Am, AQY, Rd, Ik
+![unfilteredbox.png](https://benberman1.github.io/Ben-Research-method-2026/images/unfilteredbox.png)
+![filteredbox.png](https://benberman1.github.io/Ben-Research-method-2026/images/filteredbox.png)
+![unfilteredplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/unfilteredplot.png)
+![filteredplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/filteredplot.png)
+Figure 6: Am, AQY, Rd, Ik
 
 
 ###Discussion
