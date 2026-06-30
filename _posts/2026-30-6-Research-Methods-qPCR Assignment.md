@@ -9,28 +9,27 @@
 
 This gene is essential for secreting H+ ions to provide membrane diffusion potential and aid in carbon dioxide coversion for photosynthesis.
 
-It encodes for a proton pump in these dinoflagelate alage that is only expressed by endoosymbiotic Symbiodinium to transport cations across cell membranes. 
+It encodes for a proton pump in these dinoflagelate alage that is only expressed by endosymbiotic Symbiodinium to transport cations across cell membranes. 
 
 Expression changes will be observed upon symbiosis in coral hosts to improve symbiotic energy aquisition, where expression of H<sup>+</sup>-ATPase will be most dominant in strong symbiotic relationships.
 
-I plan to investigate the impact of thermal stress by drastic heat waves on H<sup>+</sup>-ATPase to determine the effects of this protein pump when climate change induced global warmin is present at abdormal extremes.
+I plan to investigate the impact of thermal stress by drastic heat waves on H<sup>+</sup>-ATPase to determine the effects of this protein pump when climate change induced global warming is present at abdormal extremes.
 
-H<sup>+</sup>-ATPase is a critical player in supporting the zooxanthale-coral symbioytic relationship, and would likely experience expression challenges when the symbiotic alage and coral are indiviudally and coopertaively suffering from heat stress challenges.
+H<sup>+</sup>-ATPase is a critical player in supporting the zooxanthellae-coral symbioytic relationship, and would likely experience expression challenges when the symbiotic alage and coral are indiviudally and coopertaively suffering from heat stress challenges.
 
 <u> Target Gene 2: HSP70 </u>
 
 This gene represents a class of heat shock proteins that are essential for uspporting this dinoflagelate under high thermal stress.
 
-It assists in the folding and assembly of newly synthesized proteins within the endoplasmic reticulum (ER) and can repair and refold of damaged proteins.
+It assists in the folding and assembly of newly synthesized proteins within the endoplasmic reticulum (ER) and can repair and refold damaged proteins.
 
-Gene expression will increase when thermal stress is more dominant to cope with this environmental challenge.
-
+Gene expression will increase when thermal stress is more dominant to cope with the molecular and physiological impacts of this environmental challenge.
 
 Experiemtal manipulation will include how these genes respond to heat stress induced from global warming and climate change.
 
-This gene is important to maintain zooxanthaale and coral homeostasis when thermal pressures are present and place thi key symbiotic relationship at risk of collapse.
+This gene is important to maintain zooxanthellae and coral homeostasis when thermal pressures are present and place this key symbiotic relationship at risk of collapse.
 
-Reference gene: Cox1 (Cytochrome c Oxidase Subunit I)
+<u> Reference gene: Cox1 (Cytochrome c Oxidase Subunit I) </u>
 
 The expression of this gene will remain stable under artifical heat stress as it has been experimentally confirmed to be consistently stably expressed in mitochondria of these phytoplankton.
 
@@ -41,8 +40,7 @@ The expression of this gene will remain stable under artifical heat stress as it
    Stress conditions will likely increase expression fron enhanced demand of proton regulation and intracellular pH homeostatic maintenance. A stronger presence of this protein would allow cells to better sequester energy to symbiotic coral hosts to protect them against thermal stress.
 
 3. **cox1 Hypothesis (Control):**  
-   The expression of cox1 will remain stable across all treatments, validating its use as a reference gene. No change at the genotypic and phenotypic leel would occur.
-
+   The expression of cox1 will remain stable across all treatments, validating its use as a reference gene. No change at the genotypic and phenotypic level would occur.
 
 ### Part 2: Relative Quantification Data Interpretation
 
@@ -53,7 +51,7 @@ To perform a relative quantification analysis of qPCR data, the Delta-Delta Ct M
 **Methods**
 
 - Cycle Threshold (Ct) values, which represent when the fluorescent signal from replicated DNA exceeds that of the background level threshold, was obtained from performing qPCR. Tubulin acts as a strong housekeeping gene given stable and consistent expression.
-- The Delta Ct parameter was calculated using the appropriate formuala (ΔCt = Ct target - Ct reference) to normalize the expression of the target gene to the reference gene to correct against potential sample variability. 
+- The Delta Ct parameter was calculated using the appropriate formuala (ΔCt = Ct target - Ct reference) to normalize the expression of the target gene to the reference gene correcting against potential sample variability. 
 - The Delta-Delta Ct parameter was calculated using the appropriate formula (ΔΔCt = ΔCt experimental - ΔCt control) to normalize target gene expression of the experimental treatment sample to the experimentally controlled sample.
 - The Relative Quantification or fold change was calculated using the appropriate formula (fold change = 2^−ΔΔCt) which indicates the difference in exprression of the target sample compared to the control sample.
 
