@@ -7,45 +7,32 @@
 
 <u>Target Gene 1: H<sup>+</sup>-ATPase </u>
 
-Why did you choose this gene:
 This gene is essential for secreting H+ ions to provide membrane diffusion potential and aid in carbon dioxide coversion for photosynthesis.
 
-It's known or suspected biological function.
-This gene encodes for a proton pump in these dinoflagelate alage that is only expressed by endoosymbiotic Symbiodinium to transport cations across cell membranes. 
+It encodes for a proton pump in these dinoflagelate alage that is only expressed by endoosymbiotic Symbiodinium to transport cations across cell membranes. 
 
-What changes in gene expression do you expect to observe and why?
-Expression changes will be observed upon symbiosis in coral hosts to improve symbiotic energy aquisition, where expression of H<sup>+</sup>-ATPase will be dmoninant in symbiosis.
+Expression changes will be observed upon symbiosis in coral hosts to improve symbiotic energy aquisition, where expression of H<sup>+</sup>-ATPase will be most dominant in strong symbiotic relationships.
 
-Which stress, treatment, environmental condition, or experimental manipulation do you plan to test? 
+I plan to investigate the impact of thermal stress by drastic heat waves on H<sup>+</sup>-ATPase to determine the effects of this protein pump when climate change induced global warmin is present at abdormal extremes.
 
-I would investigate the impact of thermal stress by drastic heat waves on H<sup>+</sup>-ATPase to determine the effects of this protein pump when climate change induced global warmin is present at abdormal extremes.
-
-Why is the selected gene relevant to that condition?
 H<sup>+</sup>-ATPase is a critical player in supporting the zooxanthale-coral symbioytic relationship, and would likely experience expression challenges when the symbiotic alage and coral are indiviudally and coopertaively suffering from heat stress challenges.
 
 <u> Target Gene 2: HSP70 </u>
 
-Why did you choose this gene?
-This gene represents a clas of heat shock proteins that are essential for uspporting this dinoflagelate under high thermal stress,
+This gene represents a class of heat shock proteins that are essential for uspporting this dinoflagelate under high thermal stress.
 
-It's known or suspected biological function.
-Assisting in the folding and assembly of newly synthesized proteins within the endoplasmic reticulum (ER) anf can repair and refold of damaged proteins.
+It assists in the folding and assembly of newly synthesized proteins within the endoplasmic reticulum (ER) and can repair and refold of damaged proteins.
 
-What changes in gene expression do you expect to observe and why?
 Gene expression will increase when thermal stress is more dominant to cope with this environmental challenge.
 
-Which stress, treatment, environmental condition, or experimental manipulation do you plan to test? 
+
 Experiemtal manipulation will include how these genes respond to heat stress induced from global warming and climate change.
 
-Why is the selected gene relevant to that condition?
 This gene is important to maintain zooxanthaale and coral homeostasis when thermal pressures are present and place thi key symbiotic relationship at risk of collapse.
 
 Reference gene: Cox1 (Cytochrome c Oxidase Subunit I)
 
-why you expect its expression to remain stable under your experimental conditions.
-The expression of this gene will remai stable under artifical heat stress as it is consistently stabaly expressed in mitochondria of these phytoplankton.
-
-Well-supported explanation of hypotheses and expected outcomes demonstrating the scientific reasoning behind your choices. 
+The expression of this gene will remain stable under artifical heat stress as it has been experimentally confirmed to be consistently stably expressed in mitochondria of these phytoplankton.
 
 1. **Hsp70 Hypothesis:**  
    Light extremes will induce Hsp70 upregulation to initiate the heat stress response to best manage excess thermal energy. This will result in the *Symbiodinium microadriaticum* cell, proteins, membranes and other biological qualities to have better heat tolerance as a coping strategy. 
@@ -54,7 +41,7 @@ Well-supported explanation of hypotheses and expected outcomes demonstrating the
    Stress conditions will likely increase expression fron enhanced demand of proton regulation and intracellular pH homeostatic maintenance. A stronger presence of this protein would allow cells to better sequester energy to symbiotic coral hosts to protect them against thermal stress.
 
 3. **cox1 Hypothesis (Control):**  
-   cox1 expression will remain stable across all treatments, validating its use as a reference gene. No change at the genotypic and phenotypic leel would occur.
+   The expression of cox1 will remain stable across all treatments, validating its use as a reference gene. No change at the genotypic and phenotypic leel would occur.
 
 
 ### Part 2: Relative Quantification Data Interpretation
@@ -71,9 +58,8 @@ To perform a relative quantification analysis of qPCR data, the Delta-Delta Ct M
 - The Relative Quantification or fold change was calculated using the appropriate formula (fold change = 2^−ΔΔCt) which indicates the difference in exprression of the target sample compared to the control sample.
 
 **Results**
-Final graph & tables
 
-**Table 1:** Cycle Threshold (Ct) of qPCR for analyzed genes under control (DMSO) and treatment (inhibitor) experimental conditions. Target genes are indicated in ***bold and italicized text***, with the excepition of *Tubulin*, which acted as the reference gene (indicated by an asterix [x]), being evident from no change Ct between control and treatment conditions.
+**Table 1:** Cycle Threshold (Ct) of qPCR for analyzed genes under control (DMSO) and treatment (inhibitor) experimental conditions. Target genes are indicated in ***bold and italicized text***, with the excepition of *Tubulin*, which acted as the reference gene (indicated by an asterix [*]), being evident from no change Ct between control and treatment conditions.
 
 | Condition | *Tubulin** | *ascs* | *Delta* | *ets* | *foxA* | *gcm* | *NGN* | *opt* | *pak3* | *pak4* | *pitx* | *SM30* | *sm50* | *soxC* | *synB* |
 |------------|-----------|------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
@@ -98,6 +84,5 @@ Final graph & tables
 
 
 **Discussion**
-interpretations:
 
 Genes that were upregulated in the treatment condition (fold change value greater than 1) are *ascs*, *Delta*, *ets*, *foxA*, *gcm*, *NGN*, *pak3*, *pak4*, *soxC*, and *synB*. Contrarily, were upregulated in the treatment condition (fold change value less than 1) are *opt*, *pitx*, *SM30*, and *sm50*. Therefore, we would expect greater genotype presence and phenotypic effects from the upregulated genes, and a decrease in genotype and associated phenotype in downregulated genes.
