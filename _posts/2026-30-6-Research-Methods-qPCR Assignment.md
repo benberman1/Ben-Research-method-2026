@@ -5,42 +5,42 @@
 
 **Species:** *Symbiodinium microadriaticum*
 
-<u>Target Gene 1: H<sup>+</sup>-ATPase </u>
+<u>Target Gene 1: *H<sup>+</sup>-ATPase* </u>
 
 This gene is essential for secreting H+ ions to provide membrane diffusion potential and aid in carbon dioxide coversion for photosynthesis.
 
-It encodes for a proton pump in these dinoflagelate alage that is only expressed by endosymbiotic Symbiodinium to transport cations across cell membranes. 
+It encodes for a proton pump in these dinoflagelate alage that is only expressed by endosymbiotic *Symbiodinium* to transport cations across cell membranes. 
 
-Expression changes will be observed upon symbiosis in coral hosts to improve symbiotic energy aquisition, where expression of H<sup>+</sup>-ATPase will be most dominant in strong symbiotic relationships.
+Expression changes will be observed upon symbiosis in coral hosts to improve symbiotic energy aquisition, thus potentially expression of *H<sup>+</sup>-ATPase* will be most dominant in strong symbiotic relationships and when coral are in high demand for symbiotic-derived nutrients.
 
-I plan to investigate the impact of thermal stress by drastic heat waves on H<sup>+</sup>-ATPase to determine the effects of this protein pump when climate change induced global warming is present at abdormal extremes.
+I plan to investigate the impact of thermal stress by drastic heat waves on *H<sup>+</sup>-ATPase* to determine the effects of this protein pump when climate change induced global warming is present at abdormal extremes.
 
-H<sup>+</sup>-ATPase is a critical player in supporting the zooxanthellae-coral symbioytic relationship, and would likely experience expression challenges when the symbiotic alage and coral are indiviudally and coopertaively suffering from heat stress challenges.
+*H<sup>+</sup>-ATPase* is a critical player in supporting the zooxanthellae-coral symbioytic relationship, and would likely experience expression challenges when the symbiotic alage and coral are indiviudally and coopertaively suffering from heat stress challenges.
 
-<u> Target Gene 2: HSP70 </u>
+<u> Target Gene 2: *HSP70* </u>
 
 This gene represents a class of heat shock proteins that are essential for uspporting this dinoflagelate under high thermal stress.
 
 It assists in the folding and assembly of newly synthesized proteins within the endoplasmic reticulum (ER) and can repair and refold damaged proteins.
 
-Gene expression will increase when thermal stress is more dominant to cope with the molecular and physiological impacts of this environmental challenge.
+As these genes encode heat shock proteins that help support and maintain cell functions under thermal stress, gene expression may potentially increase when thermal stress is more dominant to cope with the molecular and physiological impacts of this environmental challenge.
 
 Experiemtal manipulation will include how these genes respond to heat stress induced from global warming and climate change.
 
 This gene is important to maintain zooxanthellae and coral homeostasis when thermal pressures are present and place this key symbiotic relationship at risk of collapse.
 
-<u> Reference gene: Cox1 (Cytochrome c Oxidase Subunit I) </u>
+<u> Reference gene: *Cox1* (Cytochrome c Oxidase Subunit I)</u> 
 
-The expression of this gene will remain stable under artifical heat stress as it has been experimentally confirmed to be consistently stably expressed in mitochondria of these phytoplankton.
+The expression of this gene will remain stable under artifical heat stress as it has been experimentally confirmed to be relatively consistently expressed in mitochondria of these phytoplankton.
 
-1. **Hsp70 Hypothesis:**  
-   Light extremes will induce Hsp70 upregulation to initiate the heat stress response to best manage excess thermal energy. This will result in the *Symbiodinium microadriaticum* cell, proteins, membranes and other biological qualities to have better heat tolerance as a coping strategy. 
+1. **<i>Hsp70</i> Hypothesis:**
+   Light extremes will induce *Hsp70* upregulation to initiate the heat stress response to best manage excess thermal energy. This will result in the *Symbiodinium microadriaticum* cell, proteins, membranes and other biological qualities to have better heat tolerance as a coping strategy. 
 
-2. **H+-ATPase Hypothesis:**  
+2. **<i>H+-ATPase</i> Hypothesis:**  
    Stress conditions will likely increase expression fron enhanced demand of proton regulation and intracellular pH homeostatic maintenance. A stronger presence of this protein would allow cells to better sequester energy to symbiotic coral hosts to protect them against thermal stress.
 
-3. **cox1 Hypothesis (Control):**  
-   The expression of cox1 will remain stable across all treatments, validating its use as a reference gene. No change at the genotypic and phenotypic level would occur.
+3. **<i>cox1</i> Hypothesis (Control):**  
+   The expression of *cox1* will remain stable across all treatments, validating its use as a reference gene. No change at the genotypic and phenotypic level would occur.
 
 ### Part 2: Relative Quantification Data Interpretation
 
