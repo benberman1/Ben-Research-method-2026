@@ -14,7 +14,7 @@ Figure 1: Visual guide of algae taxa present from the coastal waters of Sdot Yam
 
 
 ###Results
-Y(II), NPQ, Fv/Fm, and ETR were measured for each algad Taxon, with actual photsynthesis patameters Am (asymptotic maximum = Pmax= max photosynthesis), AQY (initial sloap = alpha = Fv/Fm), Rd (curve y intercept = dark respiration (normalized oxygen = positive values [usually negative]), and Ik (Am/AQY, light-limited to saturation-limited irradiance level) determined on average.
+The paraemeters Y(II), NPQ, Fv/Fm, and ETR were measured for each algad Taxon, with actual photsynthesis patameters Am (asymptotic maximum = Pmax= max photosynthesis), AQY (initial sloap = alpha = Fv/Fm), Rd (curve y intercept = dark respiration (normalized oxygen = positive values [usually negative]), and Ik (Am/AQY, light-limited to saturation-limited irradiance level) determined on average.
 
 ![YII.png](https://benberman1.github.io/Ben-Research-method-2026/images/YII.png)
 Figure 2: Y(II)
