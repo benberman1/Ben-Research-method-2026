@@ -83,4 +83,4 @@ To perform a relative quantification analysis of qPCR data, the Delta-Delta Ct M
 
 **Discussion**
 
-Genes that were upregulated in the treatment condition (fold change value greater than 1) are *ascs*, *Delta*, *ets*, *foxA*, *gcm*, *NGN*, *pak3*, *pak4*, *soxC*, and *synB*. Contrarily, were upregulated in the treatment condition (fold change value less than 1) are *opt*, *pitx*, *SM30*, and *sm50*. Therefore, we would expect greater genotype presence and phenotypic effects from the upregulated genes, and a decrease in genotype and associated phenotype in downregulated genes.
+Genes that were upregulated in the treatment condition (fold change value greater than 1) are *ascs*, *Delta*, *ets*, *foxA*, *gcm*, *NGN*, *pak3*, *pak4*, *soxC*, and *synB*. Contrarily, genes downregulated in the treatment condition (fold change value less than 1) are *opt*, *pitx*, *SM30*, and *sm50*. Therefore, we would expect greater genotype presence and phenotypic effects from the upregulated genes, and a decrease in genotype and associated phenotype in downregulated genes.

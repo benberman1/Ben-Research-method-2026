@@ -1,4 +1,4 @@
-#The Photophysiology of Algae in Light and Dark Habitats From the Coast of Sdot Yam.
+#The Photophysiology of Algae in Light and Dark Habitats From the Coast of Sdot Yam
 
 ##Research Methods R Excersize by Ben Berman
 
