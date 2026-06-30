@@ -28,10 +28,9 @@ Figure 4: Fv/Fm
 ![ETRplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/ETRplot.png)
 Figure 5: ETR
 
-![unfilteredbox.png](https://benberman1.github.io/Ben-Research-method-2026/images/unfilteredbox.png)
 ![filteredbox.png](https://benberman1.github.io/Ben-Research-method-2026/images/filteredbox.png)
-![unfilteredplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/unfilteredplot.png)
-![filteredplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/filteredplot.png)
+![unfilteredplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/unfilteredplot.png) 
+![filteredplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/filteredplot.png) 
 Figure 6: Am, AQY, Rd, Ik
 
 
