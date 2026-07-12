@@ -5,7 +5,7 @@
 
 **Species:** *Symbiodinium microadriaticum*
 
-<u>Target Gene 1: *H<sup>+</sup>-ATPase* </u>
+<u>Target Gene 1: *H<sup>+</sup>-ATPase*  </u>
 
 This gene is essential for secreting H+ ions to provide membrane diffusion potential and aid in carbon dioxide coversion for photosynthesis.
 
