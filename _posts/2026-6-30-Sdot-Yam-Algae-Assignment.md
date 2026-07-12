@@ -33,7 +33,7 @@ Figure 5: Electron transport rate [ETR] of macroalgal species collected off the 
 
 
 ![filteredbox.png](https://benberman1.github.io/Ben-Research-method-2026/images/filteredbox.png)
-![unfilteredplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/unfilteredplot.png) 
+![unfilteredplot.png](https://benberman1.github.io/Ben-Research-method-2026/images/unfilteredplot.png)  
 Figure 6: Mean asymptotic maximum photosynthetic rate (Am), apparent quantum yield (AQY), dark respiration rate (Rd), and light saturation parameter (Ik) of macroalgal species collected off the coast of Sdot Yam. The box plot displays distribution of significantly filtered values between light and dark habitats, while the line plot compares observed unfiltered values to theoretical normally distributed quantiles. Measurement data obtained from Pulse-Amplitude Modulated (PAM) fluorometry.
 
 
